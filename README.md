@@ -9,7 +9,7 @@ Project DNA aims to provide elderly users who may be suffering with dementia the
 - 'npm start' to start the front end.
 
 ## Back-End
-- open the 'NodeJS' folder included in the project in CMD, run 'node server.js' to start the node.js server
+- open the 'NodeJS' folder included in the project in CMD, run 'node server.js' to start the node.js server.s
 
 ## Database
-- You will need appropriate credentials and a whitelisted IP to access the current database
+- You will need appropriate credentials and a whitelisted IP to access the current database.
